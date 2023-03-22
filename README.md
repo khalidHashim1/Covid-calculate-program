@@ -54,7 +54,7 @@ public class FinalExam {
     }
     
 }
-// Q.1
+
 class Capital{ // class Capital (Concret)
     private String capiatName; // instance variable 
 
@@ -99,7 +99,7 @@ class Country{ // class Country
                + 1000+" "+currencyName+" ="+convertToUSDollar(1000)+" USD";
     }
 }
-// Q.2 
+
 interface Treatable{ // interface Treatable
     public abstract double treatmentCost(); // Abstract method named treatment Cost
 }
